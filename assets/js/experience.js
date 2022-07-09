@@ -5,25 +5,39 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Machine Learning Intern",
+    cardImage: "assets/images/experience-page/camh.jpg",
+    place: "AID4MH | CAMH",
+    time: "(Mar, 2022 - present)",
+    desp: "<li>Working on multiple projects (WASH, BUMP, DMH) related to machine learning, image / signal processing.</li> <li>Developing pipelines for video/audio processing using various AI and signal processing functions.</li> <li>Leading a project called BUMP which involves video based emotion detection and Natural Language Processing.</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "Artificial Intelligence Intern",
+    cardImage: "assets/images/experience-page/shiphrah.png",
+    place: "Shiphrah Biomedical Inc.",
+    time: "(Jan, 2022 - Present)",
+    desp: "<li>Working in collaboration with Dalla Lana School of Public Health, University of Toronto and advised by Dr.Elham Dolatabadi.</li><li>Working on a project at the intersection of Artificial Intelligence, Medicine, and Engineering.</li><li>Working on object detection models for custom datasets.</li>",
+  },
+  {
+    title: "MITACS Intern",
+    cardImage: "assets/images/experience-page/jacobb.png",
+    place: "JACOBB AI",
+    time: "(Jul, 2021 - Present)",
+    desp: "<li>Advised by Dr.Chi-Guhn Lee, Professor in the MIE Department at UofT.</li><li>Working on anamoly detection and classification of defects in sewer channels.</li>",
   },
   {
     title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    cardImage: "assets/images/experience-page/iitm.png",
+    place: "Indian Institute of Technology, Madras",
+    time: "(Dec, 2019 - Mar, 2020)",
+    desp: "<li>Worked under Dr. Radhakrishna Ganti in the 5G testbed laboratory, IITM - a real world deployment of 5G test bed.</li><li>Our team worked on the implementation and optimization of Digital Pre-Distortion (DPD) module to achieve low Adjacent Channel Leakage Ratio.</li><li>Developed a Verilog Testbench code for the DPD IP.</li><li>Programmed the ZCU111 FPGA board with the synthesized design.</li>",
+  },
+  {
+    title: "Summer Research Intern",
+    cardImage: "assets/images/experience-page/iitpkd.png",
+    place: "Indian Institute of Technology, Palakkad",
+    time: "(May, 2019 - Jun, 2020)",
+    desp: "<li>Worked on modelling and estimation of Non-linear Communication Channels using Deep Learning under Dr. Lakshmi Narasimhan Theagarajan.</li><li>Simulated non-linear channels using Volterra, Wiener and Hammerstein Models which replicated the under-water communication channels.</li><li>Added random polynomial equations of higher orders as a non-linearity.</li><li>Built and implemented a deep learning network for the estimation of non-linear polynomial co-efficients.</li>",
   },
 ];
 
