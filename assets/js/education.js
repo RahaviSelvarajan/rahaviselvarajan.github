@@ -5,67 +5,46 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    title: "Deep Learning with Pytorch",
+    cardImage: "assets/images/education-page/coursera.png",
+    moocLink: "http://coursera.org/verify/SVJPP27UQXDK",
   },
   {
-    title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    title: "Getting Started with Python",
+    cardImage: "assets/images/education-page/coursera.png",
+    moocLink: "http://coursera.org/verify/N57TC2GT3BTS",
   },
   {
-    title: "Machine Learning",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    title: "Improving Deep Neural Networks",
+    cardImage: "assets/images/education-page/coursera.png",
+    moocLink: "http://coursera.org/verify/LYJV23S73XVC",
   },
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "MATLAB Onramp",
+    cardImage: "assets/images/education-page/mathworks.png",
+    moocLink: "https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2f7279d0-6b0c-4b60-8332-aa05fa352108",
   },
   {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "Internet Connection: How to get Online?",
+    cardImage: "assets/images/education-page/coursera.png",
+    moocLink: "http://coursera.org/verify/T64EEAJXEBXP",
   },
   {
-    title: "Javascript",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
+    title: "Neural Networks and Deep Learning",
+    cardImage: "assets/images/education-page/coursera.png",
+    moocLink: "http://coursera.org/verify/LB4CHMF7CVA6",
   },
   {
-    title: "Bootstrap 4",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
+    title: "Python Data Structures",
+    cardImage: "assets/images/education-page/coursera.png",
+    moocLink: "http://coursera.org/verify/F689PUFFPKKU",
   },
   {
-    title: "Intro to React",
-    cardImage: "assets/images/education-page/edx.svg",
-    moocLink: "https://www.edx.org/learn/reactjs",
+    title: "Structuring Machine Learning Projects",
+    cardImage: "assets/images/education-page/coursera.png",
+    moocLink: "http://coursera.org/verify/CZSYN8ZW2MY5",
   },
-  {
-    title: "Intro to React Native",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink:
-      "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
-  },
-  {
-    title: "NodeJS, Express and MongoDB",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
-  },
-  {
-    title: "XML-AJAX",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
-  },
-  {
-    title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink:
-      "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
-  },
+  
 ];
 
 const experience = [
