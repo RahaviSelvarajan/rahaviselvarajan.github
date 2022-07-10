@@ -76,7 +76,7 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "Research Volunteer | Dalla Lana School of Public Health",
+    title: "Research Volunteer",
     cardImage: "assets/images/experience-page/iphme.png",
     description:
       "Responsible for developing object detection models.",
