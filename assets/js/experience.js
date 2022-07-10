@@ -76,10 +76,10 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/1.jpg",
+    title: "Research Volunteer | Dalla Lana School of Public Health",
+    cardImage: "assets/images/experience-page/iphme.png",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "Responsible for developing object detection models.",
   },
   {
     title: "StudentCode-in 2020",
