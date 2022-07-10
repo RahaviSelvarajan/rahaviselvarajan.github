@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Machine Learning Intern",
-    cardImage: "assets/images/experience-page/camh.jpg",
+    cardImage: "assets/images/experience-page/camh.png",
     place: "AID4MH | CAMH",
     time: "(Mar, 2022 - present)",
     desp: "<li>Working on multiple projects (WASH, BUMP, DMH) related to machine learning, image / signal processing.</li> <li>Developing pipelines for video/audio processing using various AI and signal processing functions.</li> <li>Leading a project called BUMP which involves video based emotion detection and Natural Language Processing.</li>",
