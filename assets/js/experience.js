@@ -186,8 +186,7 @@ const showCards3 = () => {
         <div class="blog-slider__content">
           <div class="blog-slider__title">${title}</div>
           <span class="blog-slider__code">${subtitle}</span>
-          <div class="blog-slider__text">${desp}</div>
-          // <a href="#" class="blog-slider__button">Read More</a>   
+          <div class="blog-slider__text">${desp}</div>  
         </div>
       </div>
       `)
