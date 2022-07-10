@@ -23,7 +23,7 @@ const exp = [
     cardImage: "assets/images/experience-page/jacobb.png",
     place: "JACOBB AI",
     time: "(Jul, 2021 - Present)",
-    desp: "<li>Advised by Dr.Chi-Guhn Lee, Professor in the MIE Department at UofT.</li><li>Working on anamoly detection and classification of defects in sewer channels.</li>",
+    desp: "<li>Advised by Dr.Chi-Guhn Lee, Professor in the MIE Department at UofT.</li><li>Working on anamoly detection and classification of defects in sewer channels.</li><li>Responsibilities include developing a complete pipeline for anomaly detection and packaging the code into an application.</li>",
   },
   {
     title: "Research Intern",
@@ -82,22 +82,22 @@ const volunteershipcards = [
       "Responsible for developing object detection models.",
   },
   {
-    title: "StudentCode-in 2020",
-    cardImage: "assets/images/experience-page/2.jpg",
+    title: "NSS Volunteer",
+    cardImage: "assets/images/experience-page/nss.png",
     description:
-      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
+      "Participated in programmes and camps on social awareness of cleanliness and tree plantations.",
   },
   {
-    title: "PClub Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/3.jpg",
+    title: "Event Co-ordinator",
+    cardImage: "assets/images/experience-page/psg.png",
     description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
+      "Co-ordinated and volunteered in multiple technical events at 'Yukutaha' - national level symposium at PSG iTech.",
   },
   {
-    title: "Hakin-Codes",
-    cardImage: "assets/images/experience-page/4.jpg",
+    title: "Volunteer",
+    cardImage: "assets/images/experience-page/kalam.png",
     description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
+      "Volunteered in a tree plantation in the Anna University Regional Campus, Coimbatore in the remembrance of Late Dr. A.P.J Abdul Kalam, Former President of India.",
   },
 ];
 
