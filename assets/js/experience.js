@@ -26,6 +26,20 @@ const exp = [
     desp: "<li>Working in collaboration with Dalla Lana School of Public Health, University of Toronto and advised by Dr.Elham Dolatabadi.</li><li>Working on a project at the intersection of Artificial Intelligence, Medicine, and Engineering.</li><li>Working on object detection models for custom datasets.</li>",
   },
   {
+    title: "Teaching Assistant",
+    cardImage: "assets/images/experience-page/mie.png",
+    place: "University of Toronto",
+    time: "(Jan, 2021 - Apr, 2021)",
+    desp: "<li>Preparing assignments/labs on Data loading, accessing and SQL.</li><li>Grading assignments and exams.</li><li>Responsible for setting question paper for mid term and final exam.</li>",
+  },
+  {
+    title: "Graduate Research Assistant",
+    cardImage: "assets/images/experience-page/uoft.png",
+    place: "University of Toronto",
+    time: "(Oct, 2020 - Dec, 2021)",
+    desp: "<li>Developed an unsupervised deep learning network architecture which incorporated probabilistic modelling for multi-label image classification.</li><li>Visualized the feature representations learnt by the network using AI visual explanation techniques.</li><li>Worked with various statistical models and public biological datasets.</li>",
+  },
+  {
     title: "Research Intern",
     cardImage: "assets/images/experience-page/iitm.png",
     place: "Indian Institute of Technology, Madras",
@@ -135,6 +149,12 @@ const mentor = [
     subtitle: "Participant",
     image: "assets/images/experience-page/uoft.png",
     desp: "Developed a website called BreatheEZ which aids covid-19 affected patients with breathing exercises.",
+  },
+  {
+    title: "IMI Big Data and Artificial Intelligence Case Competition (ScotiaBank)",
+    subtitle: "Participant",
+    image: "assets/images/experience-page/imi.png",
+    desp: "Performed data preprocessing and developed AI models for credit risk prediction.",
   },
   {
     title: "India Innovation Challenge Design Contest",
