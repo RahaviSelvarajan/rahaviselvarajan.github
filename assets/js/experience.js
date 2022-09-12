@@ -5,18 +5,11 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "MITACS Intern",
+    title: "Computer Vision Intern",
     cardImage: "assets/images/experience-page/jacobb.png",
     place: "JACOBB AI",
-    time: "(Jul, 2021 - Present)",
+    time: "(Jan, 2022 - Present)",
     desp: "<li>Advised by Dr.Chi-Guhn Lee, Professor in the MIE Department at UofT.</li><li>Working on anamoly detection and classification of defects in sewer channels.</li><li>Responsibilities include developing a complete pipeline for anomaly detection and packaging the code into an application.</li>",
-  },
-  {
-    title: "Machine Learning Intern",
-    cardImage: "assets/images/experience-page/camh.png",
-    place: "AID4MH | CAMH",
-    time: "(Mar, 2022 - present)",
-    desp: "<li>Working on multiple projects (WASH, BUMP, DMH) related to machine learning, image / signal processing.</li> <li>Developing pipelines for video/audio processing using various AI and signal processing functions.</li> <li>Leading a project called BUMP which involves video based emotion detection and Natural Language Processing.</li>",
   },
   {
     title: "Artificial Intelligence Intern",
@@ -25,6 +18,13 @@ const exp = [
     time: "(Jan, 2022 - Present)",
     desp: "<li>Working in collaboration with Dalla Lana School of Public Health, University of Toronto and advised by Dr.Elham Dolatabadi.</li><li>Working on a project at the intersection of Artificial Intelligence, Medicine, and Engineering.</li><li>Working on object detection models for custom datasets.</li>",
   },
+  {
+    title: "Machine Learning Intern",
+    cardImage: "assets/images/experience-page/camh.png",
+    place: "AID4MH | CAMH",
+    time: "(Apr, 2022 - Aug, 2022)",
+    desp: "<li>Working on multiple projects (WASH, BUMP, DMH) related to machine learning, image / signal processing.</li> <li>Developing pipelines for video/audio processing using various AI and signal processing functions.</li> <li>Leading a project called BUMP which involves video based emotion detection and Natural Language Processing.</li>",
+  },  
   {
     title: "Teaching Assistant",
     cardImage: "assets/images/experience-page/mie.png",
