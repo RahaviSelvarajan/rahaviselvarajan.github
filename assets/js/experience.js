@@ -36,7 +36,7 @@ const exp = [
     title: "Teaching Assistant",
     cardImage: "assets/images/experience-page/uoft.png",
     place: "University of Toronto",
-    time: "(Jan, 2021 - Apr, 2021)",
+    time: "(Jan, 2022 - Apr, 2022)",
     desp: "<li>Preparing assignments/labs on Data loading, accessing and SQL.</li><li>Grading assignments and exams.</li><li>Responsible for setting question paper for mid term and final exam.</li>",
   },
   {
@@ -186,18 +186,6 @@ const mentor = [
     subtitle: "Participant",
     image: "assets/images/experience-page/eyantra.png",
     desp: "e-yantra is a robotics competition and I passed the first level of test involving mathematics and basic engineering questions.",
-  },
-  {
-    title: "Anokha",
-    subtitle: "Participant",
-    image: "assets/images/experience-page/anokha.png",
-    desp: "Participated in various technical competitions at the national level symposium by Amrita University.",
-  },
-  {
-    title: "Kriya",
-    subtitle: "Participant",
-    image: "assets/images/experience-page/tech.png",
-    desp: "Participated in various technical competitions at the national level symposium by PSG College of Technology.",
   },
 ];
 
