@@ -5,18 +5,18 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Python Software Engineer",
+    cardImage: "assets/images/experience-page/hatchery.png",
+    place: "UofT Hatchery",
+    time: "(Sep, 2022 - Present)",
+    desp: "<li>Working on the front-end department for a website which helps in assisting users to do physiotherapy exercises.</li><li>Managing data on the database and making them available through API endpoints.</li><li>Deploying deep learning models for real-time pose estimation.</li>",
+  },
+  {
     title: "Computer Vision Intern",
     cardImage: "assets/images/experience-page/jacobb.png",
     place: "JACOBB AI",
     time: "(Jan, 2022 - Present)",
     desp: "<li>Advised by Dr.Chi-Guhn Lee, Professor in the MIE Department at UofT.</li><li>Working on anamoly detection and classification of defects in sewer channels.</li><li>Responsibilities include developing a complete pipeline for anomaly detection and packaging the code into an application.</li>",
-  },
-  {
-    title: "Artificial Intelligence Intern",
-    cardImage: "assets/images/experience-page/shiphrah.png",
-    place: "Shiphrah Biomedical Inc.",
-    time: "(Jan, 2022 - Present)",
-    desp: "<li>Working in collaboration with Dalla Lana School of Public Health, University of Toronto and advised by Dr.Elham Dolatabadi.</li><li>Working on a project at the intersection of Artificial Intelligence, Medicine, and Engineering.</li><li>Working on object detection models for custom datasets.</li>",
   },
   {
     title: "Machine Learning Intern",
@@ -26,8 +26,15 @@ const exp = [
     desp: "<li>Working on multiple projects (WASH, BUMP, DMH) related to machine learning, image / signal processing.</li> <li>Developing pipelines for video/audio processing using various AI and signal processing functions.</li> <li>Leading a project called BUMP which involves video based emotion detection and Natural Language Processing.</li>",
   },  
   {
+    title: "Artificial Intelligence Intern",
+    cardImage: "assets/images/experience-page/shiphrah.png",
+    place: "Shiphrah Biomedical Inc.",
+    time: "(Jan, 2022 - May, 2022)",
+    desp: "<li>Working in collaboration with Dalla Lana School of Public Health, University of Toronto and advised by Dr.Elham Dolatabadi.</li><li>Working on a project at the intersection of Artificial Intelligence, Medicine, and Engineering.</li><li>Working on object detection models for custom datasets.</li>",
+  },
+  {
     title: "Teaching Assistant",
-    cardImage: "assets/images/experience-page/mie.png",
+    cardImage: "assets/images/experience-page/uoft.png",
     place: "University of Toronto",
     time: "(Jan, 2021 - Apr, 2021)",
     desp: "<li>Preparing assignments/labs on Data loading, accessing and SQL.</li><li>Grading assignments and exams.</li><li>Responsible for setting question paper for mid term and final exam.</li>",
@@ -50,7 +57,7 @@ const exp = [
     title: "Summer Research Intern",
     cardImage: "assets/images/experience-page/iitpkd.png",
     place: "Indian Institute of Technology, Palakkad",
-    time: "(May, 2019 - Jun, 2020)",
+    time: "(May, 2019 - Jun, 2019)",
     desp: "<li>Worked on modelling and estimation of Non-linear Communication Channels using Deep Learning under Dr. Lakshmi Narasimhan Theagarajan.</li><li>Simulated non-linear channels using Volterra, Wiener and Hammerstein Models which replicated the under-water communication channels.</li><li>Added random polynomial equations of higher orders as a non-linearity.</li><li>Built and implemented a deep learning network for the estimation of non-linear polynomial co-efficients.</li>",
   },
 ];

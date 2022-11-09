@@ -6,6 +6,13 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "QPrism - Data Quality Assessment",
+    cardImage: "assets/images/project-page/QPrism_poster.png",
+    description: "A python package to perform data-driven, multimodal, and multi-dimensional data quality assessment.",
+    Previewlink: "",
+    Githublink: "https://github.com/aid4mh/QPrism",
+  },
+  {
     title: "Deep Query Attacks: A Reinforcement Learning Approach",
     cardImage: "assets/images/project-page/dqa.png",
     description: "Attacking a Black-box Convolutional Neural Network in the L-&infin setting using reinforcement learning in a query efficient way.",
