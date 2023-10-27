@@ -5,18 +5,32 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Data and ML Engineer",
+    cardImage: "assets/images/experience-page/sanofi.png",
+    place: "Sanofi",
+    time: "(May, 2023 - Present)",
+    desp: "<li>As a MLOps engineer, I am responsible for platform migrations and Argo CD deployments.</li><li>Deploying ML models for various use-cases into production.</li><li>Worked in the LiveOps Team to resolve bugs in the internal kubernetes platform.</li>",
+  },
+  {
+    title: "Data Analyst",
+    cardImage: "assets/images/experience-page/uoft.png",
+    place: "UTSC Bridge",
+    time: "(Feb, 2023 - Jul, 2023)",
+    desp: "<li>Analyzed survey data using various Excel functionalities.</li><li>Cleaned the data using python libraries namely pandas, scikit-learn and numpy.</li><li>Visualized the cleaned data using PowerBI Dashboard.</li>",
+  },
+  {
+    title: "Deep Learning Intern",
+    cardImage: "assets/images/experience-page/jacobb.png",
+    place: "JACOBB AI",
+    time: "(Jan, 2022 - May, 2023)",
+    desp: "<li>Gathered, visualized and trained the new dataset using various SSL models for Animal Sound Classification.</li><li>Performed anomaly detection on sewer channel images using various SOTA computer vision networks.</li><li>Dockerized the whole application for easy installation and use by the clients.</li>",
+  },
+  {
     title: "Python Software Engineer",
     cardImage: "assets/images/experience-page/hatchery.png",
     place: "UofT Hatchery",
-    time: "(Sep, 2022 - Present)",
+    time: "(Sep, 2022 - Nov, 2022)",
     desp: "<li>Working on the front-end department for a website which helps in assisting users to do physiotherapy exercises.</li><li>Managing data on the database and making them available through API endpoints.</li><li>Deploying deep learning models for real-time pose estimation.</li>",
-  },
-  {
-    title: "Computer Vision Intern",
-    cardImage: "assets/images/experience-page/jacobb.png",
-    place: "JACOBB AI",
-    time: "(Jan, 2022 - Present)",
-    desp: "<li>Advised by Dr.Chi-Guhn Lee, Professor in the MIE Department at UofT.</li><li>Working on anamoly detection and classification of defects in sewer channels.</li><li>Responsibilities include developing a complete pipeline for anomaly detection and packaging the code into an application.</li>",
   },
   {
     title: "Machine Learning Intern",
